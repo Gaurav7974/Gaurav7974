@@ -1,7 +1,3 @@
-<!-- Centered header with banner -->
-<p align="center">
-  <img src="./banner.png" alt="banner" />
-</p>
 
 <p align="center">
   <a href="https://github.com/yourusername"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
