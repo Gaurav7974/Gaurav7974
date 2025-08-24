@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="Gaurav (2).png" alt="Tech Stack" style="max-width: 1000px; width: 100%;" />
+</p>
+
+
 
 <p align="center">
   <a href="https://github.com/yourusername"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
